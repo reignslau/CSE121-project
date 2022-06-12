@@ -52,7 +52,6 @@ header img{
    }
    .topnav a {
     color: var(--nav-link-color);
-    float: left;
     display: inline-block;
     vertical-align: top;
     margin-left: 50px;
